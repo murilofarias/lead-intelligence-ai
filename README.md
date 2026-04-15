@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**AI-powered lead scoring for modern B2B SaaS teams.**
+**AI-assisted lead scoring that combines firmographic rules with LLM intent analysis, streams plain-English explanations, and pushes qualified leads back to your CRM.**
 
 ![Python](https://img.shields.io/badge/python-3.11-blue?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?style=flat-square)
